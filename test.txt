@@ -1,0 +1,50 @@
+
+ You are working right now as an SDET!
+
+ 1. Company
+    Allstate => Contractor => You are in the contract position
+
+ 2. Project => name of the projct, choose component,
+
+ 3. Recruiters
+ 	=> Keep track with recruiters and be in touch
+ 	=> RTR => Right to Represent
+
+ 4. Positions 
+ 	- QA 
+ 	- Automation
+ 	- SDET
+ 	- Automation Tester
+ 	- QA Automation Tester
+ 	- QA Lead
+
+_________________________________________________________________
+
+ 
+    GIT 
+
+ Version Control System (VCS)
+
+ Git, Subversion(SVN), Mercurial => similar tools
+
+ - We check in terminal if we have Git installed
+
+
+ Power Shell for Windows
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
