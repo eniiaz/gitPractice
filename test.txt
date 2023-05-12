@@ -35,7 +35,13 @@ _________________________________________________________________
  Here some changes
 
 
+______________________
 
+SSH => Secure Shell
+
+This is your finger print of your computer.
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN/WuzPmG6apC8qUmuCz2isBjH/BGamkreT1anBBxT5v eniiazov@gmail.com
  
 
 
